@@ -4,7 +4,7 @@ data_management_roles:
 product_information:
   ministry: CITZ
   product_acronym: 
-  product_description: test description
+  product_description: Test description
   product_name: 
 product_technology_information:
   hosting_platforms: Not-Applicable
